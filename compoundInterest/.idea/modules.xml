@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../asciiValue/asciiValue.iml" filepath="$PROJECT_DIR$/../asciiValue/asciiValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../classDemo/classDemo.iml" filepath="$PROJECT_DIR$/../classDemo/classDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundInterest1.iml" filepath="$PROJECT_DIR$/compoundInterest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../firstProgram/firstProgram.iml" filepath="$PROJECT_DIR$/../firstProgram/firstProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../helloUniverse/helloUniverse.iml" filepath="$PROJECT_DIR$/../helloUniverse/helloUniverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../inputProgram/inputProgram.iml" filepath="$PROJECT_DIR$/../inputProgram/inputProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multiplyNum/multiplyNum.iml" filepath="$PROJECT_DIR$/../multiplyNum/multiplyNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../perimterRectangle/perimterRectangle.iml" filepath="$PROJECT_DIR$/../perimterRectangle/perimterRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quadraticEqn/quadraticEqn.iml" filepath="$PROJECT_DIR$/../quadraticEqn/quadraticEqn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quotientRemainder/quotientRemainder.iml" filepath="$PROJECT_DIR$/../quotientRemainder/quotientRemainder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sumComplexNum/sumComplexNum.iml" filepath="$PROJECT_DIR$/../sumComplexNum/sumComplexNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../surfaceArea/surfaceArea.iml" filepath="$PROJECT_DIR$/../surfaceArea/surfaceArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../swapNum/swapNum.iml" filepath="$PROJECT_DIR$/../swapNum/swapNum.iml" />
+    </modules>
+  </component>
+</project>
